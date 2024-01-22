@@ -322,3 +322,4 @@ select h.*, o.first_name, c.first_name, a.agency_name from houses h inner join o
 -- - 24.Рейтинг боюнча эн популярдуу 5 уйду чыгар.
 -- - 25.Орто жаштагы owner_ди , анын уйун , уйдун адрессин чыгар.
 
+
